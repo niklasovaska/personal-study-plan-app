@@ -1,0 +1,30 @@
+.card_icons {
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+
+.card_icons:hover {
+    background-color: #ebebeb;
+    border-radius: 5px;
+    opacity: 50%;
+}
+
+.course_card {
+    width: 85%;
+    min-height: 50px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+.course_card:hover {
+    border-color: #646cff;
+    transition: all 1s ease-in-out;
+}
+
+.course_text {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}

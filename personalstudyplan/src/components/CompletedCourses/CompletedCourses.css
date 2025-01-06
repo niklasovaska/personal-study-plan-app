@@ -1,0 +1,18 @@
+.courseTable {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 800px;
+}
+
+table {
+    width: 100%;
+}
+
+th, td {
+    text-align: center;
+}
+
+td:first-child {
+    text-align: left;
+}

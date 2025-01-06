@@ -1,0 +1,346 @@
+{
+  "courses": [
+    {
+      "name": "Professional Communication",
+      "module": "Key Competencies",
+      "code": "COM001HH1A",
+      "credits": 5,
+      "grade": 3,
+      "status": "completed",
+      "id": "522e"
+    },
+    {
+      "name": "Customer Insight and Marketing",
+      "module": "Key Competencies",
+      "code": "MAR001HH1A",
+      "credits": 5,
+      "grade": null,
+      "status": "upcoming",
+      "id": "8fd0"
+    },
+    {
+      "name": "ICT Competencies",
+      "module": "Key Competencies",
+      "code": "ICB001HH1A",
+      "credits": 5,
+      "grade": 5,
+      "status": "completed",
+      "id": "5bb8"
+    },
+    {
+      "name": "Customer Experience and Sales",
+      "module": "Key Competencies",
+      "code": "SAL001HH1A",
+      "credits": 5,
+      "grade": null,
+      "status": "S25",
+      "id": "d1d7"
+    },
+    {
+      "name": "Teamwork and Project Management",
+      "module": "Key Competencies",
+      "code": "HRL001HH1A",
+      "credits": 5,
+      "grade": null,
+      "status": "upcoming",
+      "id": "d455"
+    },
+    {
+      "name": "Research and Development Skills",
+      "module": "Key Competencies",
+      "code": "ANA001HH1A",
+      "credits": 5,
+      "grade": null,
+      "status": "S26",
+      "id": "902b"
+    },
+    {
+      "name": "Basics of Financial Management",
+      "module": "Key Competencies",
+      "code": "ECO001HH1A",
+      "credits": 5,
+      "grade": 5,
+      "status": "completed",
+      "id": "bf98"
+    },
+    {
+      "name": "Entrepreneurship and Business Operations",
+      "module": "Key Competencies",
+      "code": "ENT001HH1A",
+      "credits": 5,
+      "grade": 4,
+      "status": "completed",
+      "id": "a684"
+    },
+    {
+      "name": "Professional English",
+      "module": "Key Competencies",
+      "code": "ENG001HH1AE",
+      "credits": 5,
+      "grade": 5,
+      "status": "completed",
+      "id": "b979"
+    },
+    {
+      "name": "Professional Swedish",
+      "module": "Key Competencies",
+      "code": "SWE001HH1A",
+      "credits": 5,
+      "grade": 5,
+      "status": "completed",
+      "id": "d814"
+    },
+    {
+      "name": "Introduction to Studies",
+      "module": "Keys to Studies and Career",
+      "code": "STU001HH1A",
+      "credits": 1,
+      "grade": "pass",
+      "status": "completed",
+      "id": "7756"
+    },
+    {
+      "name": "Introduction to Digital Learning Environments",
+      "module": "Keys to Studies and Career",
+      "code": "STU002HH1A",
+      "credits": 1,
+      "grade": "pass",
+      "status": "completed",
+      "id": "8b82"
+    },
+    {
+      "name": "Career Planning",
+      "module": "Keys to Studies and Career",
+      "code": "STU007HH1A",
+      "credits": 1,
+      "grade": "pass",
+      "status": "completed",
+      "id": "eddd"
+    },
+    {
+      "name": "Job-Seeking Skills",
+      "module": "Keys to Studies and Career",
+      "code": "STU008HH1A",
+      "credits": 1,
+      "grade": "pass",
+      "status": "completed",
+      "id": "cce7"
+    },
+    {
+      "name": "Studies and Entrepreneurship",
+      "module": "Keys to Studies and Career",
+      "code": "STU010HH1A",
+      "credits": 1,
+      "grade": null,
+      "status": "upcoming",
+      "id": "bb40"
+    },
+    {
+      "name": "Introduction to Digital Services",
+      "module": "Key Competencies in Business Information Technology Studies",
+      "code": "DIG001IT1A",
+      "credits": 5,
+      "grade": 5,
+      "status": "completed",
+      "id": "1c4a"
+    },
+    {
+      "name": "Introduction to Business Driven ICT",
+      "module": "Key Competencies in Business Information Technology Studies",
+      "code": "ICB001IT1A",
+      "credits": 5,
+      "grade": 5,
+      "status": "completed",
+      "id": "4dd3"
+    },
+    {
+      "name": "Introduction to ICT Infrastructure and Cloud Services",
+      "module": "Key Competencies in Business Information Technology Studies",
+      "code": "ICI001IT1A",
+      "credits": 5,
+      "grade": 5,
+      "status": "completed",
+      "id": "c78d"
+    },
+    {
+      "name": "Introduction to Software Development",
+      "module": "Key Competencies in Business Information Technology Studies",
+      "code": "SOF001IT1A",
+      "credits": 5,
+      "grade": 5,
+      "status": "completed",
+      "id": "7add"
+    },
+    {
+      "name": "Programming I",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "SOF005AS2A",
+      "credits": 5,
+      "grade": 5,
+      "status": "completed",
+      "id": "2713"
+    },
+    {
+      "name": "Programming II",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "SOF001AS3A",
+      "credits": 5,
+      "grade": 5,
+      "status": "completed",
+      "id": "b998"
+    },
+    {
+      "name": "Data Management and Databases",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "SOF001AS2A",
+      "credits": 5,
+      "grade": 5,
+      "status": "completed",
+      "id": "4515"
+    },
+    {
+      "name": "Back End Programming",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "SOF003AS3A",
+      "credits": 5,
+      "grade": null,
+      "status": "S25",
+      "id": "34a6"
+    },
+    {
+      "name": "Front End Programming",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "SOF004AS3A",
+      "credits": 5,
+      "grade": null,
+      "status": "S25",
+      "id": "5aef"
+    },
+    {
+      "name": "Software Requirements Analysis",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "SOF002AS2A",
+      "credits": 5,
+      "grade": 5,
+      "status": "completed",
+      "id": "4b20"
+    },
+    {
+      "name": "Python Programming",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "SOF004AS2A",
+      "credits": 5,
+      "grade": 5,
+      "status": "completed",
+      "id": "9bcc"
+    },
+    {
+      "name": "Software Development Project I",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "SOF005AS3A",
+      "credits": 5,
+      "grade": null,
+      "status": "S25",
+      "id": "66bf"
+    },
+    {
+      "name": "Software Development Project II",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "SOF007AS3A",
+      "credits": 10,
+      "grade": null,
+      "status": "A25",
+      "id": "d7c6"
+    },
+    {
+      "name": "Software Testing",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "SOF015AS3A",
+      "credits": 5,
+      "grade": null,
+      "status": "S25",
+      "id": "db64"
+    },
+    {
+      "name": "Mobile Programming",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "SOF008AS3A",
+      "credits": 5,
+      "grade": null,
+      "status": "A25",
+      "id": "4833"
+    },
+    {
+      "name": "Software Development Technologies",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "SOF009AS3A",
+      "credits": 5,
+      "grade": null,
+      "status": "A25",
+      "id": "a02c"
+    },
+    {
+      "name": "Software Test Automation",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "SOF017AS3A",
+      "credits": 5,
+      "grade": null,
+      "status": "A25",
+      "id": "50fc"
+    },
+    {
+      "name": "Softala Project",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "SOF011AS3A",
+      "credits": 10,
+      "grade": null,
+      "status": "A25",
+      "id": "0625"
+    },
+    {
+      "name": "Cloud Service Technologies",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "ICI003AS3A",
+      "credits": 5,
+      "grade": null,
+      "status": "S25",
+      "id": "7f0e"
+    },
+    {
+      "name": "Database Developer",
+      "module": "Professional Competencies in Business Information Technology Studies",
+      "code": "SOF013AS3AE",
+      "credits": 5,
+      "grade": null,
+      "status": "upcoming",
+      "id": "639c"
+    },
+    {
+      "name": "Basic Work Placement",
+      "module": "Work Placement",
+      "code": "PLA001HH1A",
+      "credits": 15,
+      "grade": "pass",
+      "status": "completed",
+      "id": "625a"
+    },
+    {
+      "name": "Professional Work Placement",
+      "module": "Work Placement",
+      "code": "PLA001HH2A",
+      "credits": 15,
+      "grade": "pass",
+      "status": "completed",
+      "id": "3a67"
+    },
+    {
+      "name": "Thesis",
+      "module": "Thesis",
+      "code": "THE7HH901",
+      "credits": 15,
+      "grade": null,
+      "status": "S26",
+      "id": "0ba9"
+    }
+  ]
+}

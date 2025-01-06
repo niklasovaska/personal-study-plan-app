@@ -1,0 +1,16 @@
+.upcoming {
+    display: grid;
+    justify-content: center;
+    width: 100%;
+}
+
+.upcoming_main {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.semester_column {
+    width: 25%;
+    margin: 20px;
+}
