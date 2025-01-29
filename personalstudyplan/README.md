@@ -74,8 +74,8 @@ graph LR
 Add button to render AddCourseModal input form.
 
 ## Project status
-<input type="checkbox" disabled checked /> Basic CRUD functionalities / JSON Server  
-<input type="checkbox" disabled checked /> Views for completed and upcoming courses    
-<input type="checkbox" disabled /> Draggable coursecards to schedule courses by semesters (drop areas)  
-<input type="checkbox" disabled /> Converting db.json to a SQL/NoSQL database  
-<input type="checkbox" disabled /> Deployment  
+- [x] CRUD functionalities with JSON Server
+- [x] Views for completed and upcoming courses
+- [ ] Draggable coursecards to schedule courses by semesters (drop areas)
+- [ ] Converting db.json to a SQL/NoSQL database
+- [ ] Deployment  
