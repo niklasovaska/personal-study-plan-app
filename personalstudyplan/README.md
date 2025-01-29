@@ -31,14 +31,17 @@ Fetching course data using back-end service courses.js comprising of Axios .get(
 ## Screenshots
 ### Header and completed courses view
 Displaying total credits, progressbar and table of completed courses. Header displays completed and upcoming buttons to switch between views. Add course to render input form modal.  
-![Completed courses view](./screenshots/completedCourses.png)
+
+<img width="693" alt="completedCourses" src="https://github.com/user-attachments/assets/d7ecb632-cab0-4c7d-9280-1449a5448185" />
 
 ### Upcoming courses view
-Displaying coursecards based on course object's status. On hover Coursecard displays mark complete and delete functionalities.  
-![Upcoming courses view](./screenshots/upcomingCourses.png)
+Displaying coursecards based on course object's status. On hover Coursecard displays mark complete and delete functionalities.
+
+<img width="876" alt="upcomingCourses" src="https://github.com/user-attachments/assets/567e7855-31bd-436f-8340-58c96f902724" />
 
 ### Add course
-![Add course](./screenshots/addCourseModal.png)
+
+<img width="911" alt="addCourseModal" src="https://github.com/user-attachments/assets/c0902f26-9e70-4b8d-a68c-8d6e0050f285" />
 
 ## React components
 
